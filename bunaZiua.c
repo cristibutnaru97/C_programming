@@ -1,1 +1,1 @@
-printf("imi ies clatitele din prima");
+printf("imi ies clatitele din prima!");
