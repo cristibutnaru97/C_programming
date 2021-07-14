@@ -1,2 +1,2 @@
-printf("Buna seara!");
+printf("Buna sear");
 printf("!!!");
