@@ -1,7 +1,8 @@
-<<<<<<< c1f7bea15597c7aa061312a0310925825bcf314e
+
 salut!
+aloha
 
 
-=======
+
 salut
->>>>>>> modificat
+
