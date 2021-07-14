@@ -4,3 +4,5 @@ int b=6;
 int ma;
 ma=(a+b)/2;
 print(ma);
+
+#nice
